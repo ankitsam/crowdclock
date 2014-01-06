@@ -12,7 +12,7 @@ Instant Appointment Solution
 
 == Description ==
 
-Crowdclock is Instant Appointment Solution. If your are a business owner on crowdclock, this wordpress plugin allows you to add crowdclock widget to your website without any hassel.
+Crowdclock is an Instant Appointment Solution. If your are a business owner wanting your clients to set appointments with you automatically without having have to answer phone calls, then install this plugin. Signup is Free! Just visit http://www.crowdClock.com for more details. This plugin allows easy install of CrowdClock technology into your Wordpress powered website.
 
 Refer to installation tab for details.
 
